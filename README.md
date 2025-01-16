@@ -1,1 +1,1 @@
-# ArimaSeasonalArima
+# Arima and Seasonal Arima
